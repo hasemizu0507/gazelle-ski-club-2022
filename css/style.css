@@ -93,6 +93,7 @@ img {
     text-align: center;
     margin-top: 10%;
     background-color: rgba(255,255,255, 0.5);
+    padding-bottom: 2%;
 }
 .home-content p {
     font-size: 1.125rem;
@@ -159,6 +160,24 @@ article {
 /* サイドバー */
 aside {
     width: 22%;
+}
+.sub-menu {
+    margin-bottom: 60px;
+    list-style: none;
+}
+.sub-menu li {
+    border-bottom: 1px #ddd solid;
+}
+.sub-menu a {
+    color: #432;
+    padding: 10px;
+    display: block;
+}
+.sub-menu a:hover {
+    color: #0bd;
+}
+aside p {
+    padding: 12px 10px;
 }
 
 /* フッター
