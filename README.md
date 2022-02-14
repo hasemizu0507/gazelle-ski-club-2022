@@ -1,1 +1,1 @@
-# gazelle-ski-2022
+# gazelle-ski-club-2022
